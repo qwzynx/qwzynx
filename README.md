@@ -1,7 +1,8 @@
 # <div align="center">Hi there, I'm Mahan Ghafarian! 👋</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering+Student;Arch+Linux+BTW;Software+Security+Specialist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineering+Student;Arch+Linux+BTW;Software+Security+Specialist" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
