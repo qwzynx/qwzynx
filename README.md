@@ -55,7 +55,10 @@
 ### 📊 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwzynx&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/qwzynx">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=qwzynx&layout=compact&theme=github_dark"
+        alt="qwzynx's Top Languages" />
+  </a>
 </div>
 
 ---
