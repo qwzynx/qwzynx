@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <a href="https://mahanghafarian.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=https://www.flaticon.com/free-icon/link_1048682&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.mahanghafarian.com/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=https://www.flaticon.com/free-icon/link_1048682&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/mahan-ghafarian-b02ba0298"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/qwzynx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
