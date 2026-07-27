@@ -105,8 +105,11 @@ offline:   Sports cinematography · 100 km+ cycling routes · baking with 3D-pri
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&card_width=800&theme=github_dark&title_color=3ECF8E&icon_color=1793D1&bg_color=0D1117" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&card_width=800&theme=default&title_color=2E7D5B&icon_color=1793D1" alt="Mahan's GitHub stats" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&card_width=500&icon_color=1793D1&hide_border=true&theme=github_dark&title_color=3ECF8E&text_color=C9D1D9&bg_color=0D1117" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&card_width=500&icon_color=1793D1&hide_border=true&theme=default&title_color=2E7D5B" alt="Mahan's GitHub stats" height="195" />
+</picture><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=qwzynx&layout=compact&langs_count=7&card_width=340&hide_border=true&theme=github_dark&title_color=3ECF8E&text_color=C9D1D9&bg_color=0D1117" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=qwzynx&layout=compact&langs_count=7&card_width=340&hide_border=true&theme=default&title_color=2E7D5B" alt="Most used languages" height="195" />
 </picture>
 
 <br /><br />
