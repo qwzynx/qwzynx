@@ -105,16 +105,15 @@ offline:   Sports cinematography · 100 km+ cycling routes · baking with 3D-pri
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=3ECF8E&icon_color=1793D1&bg_color=0D1117" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=2E7D5B&icon_color=1793D1" alt="Mahan's GitHub stats" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&card_width=800&theme=github_dark&title_color=3ECF8E&icon_color=1793D1&bg_color=0D1117" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&card_width=800&theme=default&title_color=2E7D5B&icon_color=1793D1" alt="Mahan's GitHub stats" width="100%" />
 </picture>
+
+<br /><br />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qwzynx&theme=github_dark&utcOffset=-4" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qwzynx&theme=default&utcOffset=-4" alt="When I commit (EDT)" width="47%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qwzynx&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qwzynx&theme=default" alt="Repositories per language" width="47%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=qwzynx&hide_border=true&theme=github-compact&bg_color=0D1117&color=3ECF8E&line=1793D1&point=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwzynx&hide_border=true&theme=github-light&color=2E7D5B&line=1793D1&area=true" alt="Contribution activity graph" width="100%" />
 </picture>
 
 </div>
