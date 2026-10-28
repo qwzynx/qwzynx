@@ -1,147 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793D1,50:3ECF8E,100:FF3E00&height=170&section=header&text=Mahan%20Ghafarian&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineering%20%C2%B7%20Software%20Security%20%C2%B7%20York%20University&descAlignY=54&descSize=16" alt="Mahan Ghafarian" width="100%" />
+<a href="https://www.mahanghafarian.com"><img src="assets/hero.svg" width="100%" alt="Hello, I'm Mahan Ghafarian. I'm a Software Engineer, Security Enthusiast and Hardware Hacker." /></a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3ECF8E&center=true&vCenter=true&width=560&lines=Software+Engineering+student+%40+York+U;Software+Security+stream+%E2%80%94+offense+informs+defense;Local-first+apps+with+Tauri+%2B+Svelte+%2B+Rust;Full-stack+with+Next.js%2C+FastAPI+%26+Supabase;I+use+Arch%2C+btw+%F0%9F%90%A7" alt="What I do" />
-</a>
+<a href="https://www.mahanghafarian.com"><img src="assets/link-portfolio.svg" height="46" alt="Portfolio" /></a>
+<a href="https://studio.mahanghafarian.com"><img src="assets/link-studio.svg" height="46" alt="Photo & Video" /></a>
+<a href="https://www.linkedin.com/in/mahan-ghafarian/"><img src="assets/link-linkedin.svg" height="46" alt="LinkedIn" /></a>
+<a href="mailto:mahan207gh@gmail.com"><img src="assets/link-email.svg" height="46" alt="Email" /></a>
+<a href="https://www.instagram.com/qwzynx/"><img src="assets/link-instagram.svg" height="46" alt="Instagram" /></a>
 
-<br />
+<br /><br />
 
-<a href="https://www.mahanghafarian.com/"><img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4=" alt="Portfolio" /></a>
-<a href="https://studio.mahanghafarian.com/"><img src="https://img.shields.io/badge/Studio-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNC41IDRoLTVMNyA3SDRhMiAyIDAgMCAwLTIgMnY5YTIgMiAwIDAgMCAyIDJoMTZhMiAyIDAgMCAwIDItMlY5YTIgMiAwIDAgMC0yLTJoLTNsLTIuNS0zeiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTMiIHI9IjMuNSIvPjwvc3ZnPg==" alt="Photo & Video Studio" /></a>
-<a href="https://www.linkedin.com/in/mahan-ghafarian-b02ba0298"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mahan207gh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.instagram.com/qwzynx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=qwzynx&label=Profile%20views&color=3ECF8E&style=flat-square" alt="Profile views" />
+<img src="assets/section-about.svg" height="64" alt="About: how I build" />
 
 </div>
 
----
+I'm a **Software Engineering** student at **York University** (Lassonde), in the **Software Security** stream, and right now I'm an **Application Support Associate Intern at HomeEquity Bank**, fixing defects and shipping features in C#/.NET MVC apps and APIs used by customers, staff and partner firms.
 
-## 👋 About me
+Most of my projects start with a problem I ran into myself: a songbook that works without Wi-Fi, a syllabus I shouldn't have to copy out by hand, an internship feed that replaces a dozen tabs. I mostly build **local-first apps** (Tauri, Svelte, Rust, SQLite) and **full-stack web** (Next.js, Supabase), and I'm learning offensive security, mainly penetration testing and HID injection. Outside software I shoot sports photo and video and run brand content for GDG York.
 
-I'm a **Software Engineering** student at **York University** (Lassonde School of Engineering), specializing in the **Software Security** stream. Most of what I build starts as a problem I personally ran into — a songbook that shouldn't need Wi-Fi, a syllabus that shouldn't have to be transcribed by hand, an internship board that shouldn't live in twelve browser tabs.
-
-```yaml
-name:      Mahan Ghafarian
-role:      Software Engineering student · Software Security stream
-current:   Content Creator & Social Media Manager @ Google Developer Group (GDG) York
-previous:  Digital Marketing & Web Lead @ ZUIX INC.
-building:  Fretnote — a local-first songbook for guitarists (Svelte 5 + Tauri 2)
-learning:  Penetration testing · HID injection & hardware hacking · secure architecture
-daily:     Arch Linux (Wayland + KDE Plasma) · Neovim-adjacent VS Code · too much coffee
-ask_me:    Tauri, Next.js, FastAPI, Supabase, DuckyScript, or how to survive an Arch update
-offline:   Sports cinematography · 100 km+ cycling routes · baking with 3D-printed molds
-```
-
-**What I care about when I build:**
-
-| Principle | What it looks like in practice |
+| | |
 | :-- | :-- |
-| 🔒 **Security by default** | Never store what you don't have to — Anti-FOMO captures a session *after* Duo 2FA on York's own domain, so a raw password never touches my code |
-| 📴 **Local-first** | Fretnote keeps every song in on-device SQLite. No account, no server, works on a stage with no signal |
-| 🎯 **Real users first** | Every project below has at least one person depending on it — usually a classmate, a bandmate, or me at 2 a.m. |
-| 📐 **Ship it properly** | Typed end to end, CI-built releases, and a README that actually explains the thing |
+| 🔒 **Security by default** | Don't store what you don't need. Anti-FOMO's York login captured a session *after* Duo 2FA on York's own domain, so a raw password never touched my code. |
+| 📴 **Local-first** | Data stays in on-device SQLite. No account, no server, and it still works with the network off. |
+| 🎯 **Real users first** | Every project here has at least one person relying on it, usually a classmate, a bandmate, or me. |
+| 📐 **Ship it properly** | Typed end to end, CI-built releases, and a README that explains the project. |
 
----
-
-## 🧰 Tech stack
+<br />
 
 <div align="center">
 
-**Languages**
+<img src="assets/section-skills.svg" height="64" alt="Skills: I use arch btw" />
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,rust&theme=dark" alt="Python, TypeScript, JavaScript, Java, C, Rust" />
+<br /><br />
 
-**Frameworks & UI**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,nodejs,fastapi&theme=dark" alt="React, Next.js, Svelte, Tailwind CSS, Node.js, FastAPI" />
-
-**Data, Native & Infra**
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,tauri,vercel,git&theme=dark" alt="Supabase, PostgreSQL, SQLite, Tauri, Vercel, Git" />
-
-**Environment & Hardware**
-
-<img src="https://skillicons.dev/icons?i=arch,linux,bash,github,vscode,raspberrypi&theme=dark" alt="Arch Linux, Linux, Bash, GitHub, VS Code, Raspberry Pi" />
+<img src="assets/skills.svg" width="100%" alt="Skills: Arch Linux, TypeScript, Java, Python, Rust, C#, React, Next.js, Svelte, Tauri, Supabase, Postgres, SQLite, Docker, Git" />
 
 </div>
 
 <details>
-<summary><b>📎 The longer version — what I actually reach for, and why</b></summary>
+<summary><b>The full toolbox</b></summary>
 
 <br />
 
-- **TypeScript everywhere.** ~69% of my code by volume. Strict mode on, `any` treated as a bug.
-- **Next.js (App Router)** for anything that lives on the web — Portfolio, Studio, GradeMatrix, and Anti-FOMO's frontend all run on Next 15/16 with React 19.
-- **Svelte 5 + Tauri 2** when it needs to be a *real* app. Fretnote ships to Linux, Windows, macOS **and** Android from one codebase, with Rust only as the shell.
-- **FastAPI + Playwright** for async scraping pipelines — Anti-FOMO pulls from 8 live sources concurrently and normalizes wildly inconsistent job-posting formats.
-- **Supabase** (Postgres + row-level security + auth) when data has to be shared; **SQLite** when it shouldn't leave the device.
-- **Google Gemini** for structured extraction — turning an unstructured PDF syllabus into a typed grading scheme is the kind of problem LLMs are genuinely good at.
-- **Arch Linux + Wayland/KDE Plasma** as a daily driver, which is also where a lot of my "how does this actually work" instinct comes from.
+| | |
+| :-- | :-- |
+| **Languages** | TypeScript / JavaScript, Java, Python, Rust, C#, SQL, HTML/CSS, C++ (Arduino), Bash, LaTeX |
+| **Frontend** | Next.js (App Router), React 19, Svelte 5, Tailwind CSS 4, Framer Motion, Astro, Recharts, KaTeX |
+| **Backend & native** | Tauri 2, ASP.NET MVC / Razor, Entity Framework, FastAPI, Hono, Node.js, Electron, WPF / .NET 8 |
+| **Data** | PostgreSQL, Supabase (auth + row-level security), SQLite, SQL Server |
+| **Ship it** | Git, GitHub Actions, Azure DevOps (Pipelines, TFVC), Docker, Vercel, Cloudflare Pages / Workers |
+| **AI / LLM** | Gemini API for structured extraction, Ollama and local models, Claude Code and Codex CLIs |
+| **Security** | Auth and session design (HMAC-signed cookies), row-level access control, input validation, HID injection and DuckyScript, learning pentesting |
+| **Hardware** | Raspberry Pi Pico 2W, ESP32, Arduino, Raspberry Pi, sensors, 3D printing, SPICE circuit simulation |
+| **Daily driver** | Arch Linux (Wayland + KDE Plasma), VS Code, Visual Studio, Postman, Obsidian, Tailscale |
 
 </details>
 
----
-
-## 🚀 Projects
-
-| Project | Stack | What it is |
-| :-- | :-- | :-- |
-| 🎸 [**Fretnote**](https://github.com/qwzynx/fretnote) | `Svelte 5` · `Tauri 2` · `SQLite` | A local-first songbook for guitarists — chord sheets, a clickable fretboard editor, transposition and setlists. Desktop **and** Android from one codebase, no server. |
-| 📊 [**GradeMatrix**](https://github.com/qwzynx/GradeCalc) · [live ↗](https://grade-calc-nine.vercel.app) | `Next.js 16` · `Supabase` · `Gemini` | Parses a PDF syllabus into a full grading scheme, then tells you exactly what you need on what's left. |
-| 📡 [**Anti-FOMO**](https://github.com/qwzynx/anti-fomo) | `Next.js 15` · `FastAPI` · `Playwright` | Aggregates internships, events and deadlines from 8 sources — with a YorkU login flow that keeps Duo 2FA on York's own domain and stores zero credentials. |
-| 🌐 [**Portfolio**](https://github.com/qwzynx/Portfolio) · [live ↗](https://www.mahanghafarian.com/) | `Next.js 16` · `Framer Motion` | My engineering portfolio, and a playground for motion design. |
-| 🎬 [**MG Studio**](https://github.com/qwzynx/studio) · [live ↗](https://studio.mahanghafarian.com/) | `Next.js` · `TypeScript` | Photography and videography sister site, built around a camera/cinema visual language. |
-| 📦 [**FocusBox**](https://github.com/qwzynx/ENG1102) | `Java` · `Arduino` | A physical study timer that catches you taking your phone back out. Light + motion sensors, 3D-printed enclosure. |
-| 🦆 [**Pico-Ducky 3.0**](https://github.com/qwzynx/Pico-Ducky3.0) | `Python` · `Pico 2W` | A fork I'm picking apart to learn DuckyScript parsing and HID injection. |
-
----
-
-## 📈 GitHub in numbers
+<br />
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&card_width=440&icon_color=1793D1&hide_border=true&theme=github_dark&title_color=3ECF8E&text_color=C9D1D9&bg_color=0D1117" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&card_width=440&icon_color=1793D1&hide_border=true&theme=default&title_color=2E7D5B" alt="Mahan's GitHub stats" height="195" />
-</picture><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=qwzynx&layout=compact&langs_count=7&card_width=290&hide_border=true&theme=github_dark&title_color=3ECF8E&text_color=C9D1D9&bg_color=0D1117" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=qwzynx&layout=compact&langs_count=7&card_width=290&hide_border=true&theme=default&title_color=2E7D5B" alt="Most used languages" height="195" />
-</picture>
+<img src="assets/section-experience.svg" height="64" alt="Experiences: professional journey" />
 
 <br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=qwzynx&hide_border=true&theme=github-compact&bg_color=0D1117&color=3ECF8E&line=1793D1&point=FFFFFF&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwzynx&hide_border=true&theme=github-light&color=2E7D5B&line=1793D1&area=true" alt="Contribution activity graph" width="100%" />
-</picture>
+<img src="assets/experience.svg" width="100%" alt="Experience timeline" />
 
 </div>
 
----
-
-## 🌱 What I'm working on right now
-
-- 🎸 **Shipping Fretnote 0.3.x** — CI-built releases across Linux, Windows, macOS and Android, and hardening the library merge/restore path so moving a songbook phone → desktop can never lose a note.
-- 🔐 **Going deeper on offensive security** — penetration testing methodology and HID injection, with the goal of writing software that assumes an attacker read the source.
-- 🧩 **Making my side projects boring to maintain** — typed end to end, tested where it counts, documented well enough that future-me doesn't have to re-read the code.
-- 🤝 **Growing GDG York** — building the content that gets people in the room.
-
----
-
-<div align="center">
-
-### 💬 Let's build something
-
-Open to **internships, collaborations, and interesting problems** — especially anything at the intersection of security, systems, and things people actually use. Links are up top.
+<details>
+<summary><b>Key contributions</b></summary>
 
 <br />
 
-<i>"Coding is my jam."</i> 🎸
+**Application Support Associate Intern · HomeEquity Bank** · Toronto · Sep 2026 – Present
+- Resolve defects and deliver user stories in C#/ASP.NET MVC web apps and a REST API, tracing issues through controllers, validators and Razor views, then demoing fixes to business stakeholders.
+- Reworked referral-program eligibility logic, added layered duplicate-contact validation to the customer portal, and extended a shared reporting method without regressions in dependent reports.
+- Ship in Azure DevOps sprints (Boards, Pipelines, TFVC) with code review on every change, ramping up from almost no prior C# or SQL.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3E00,50:3ECF8E,100:1793D1&height=110&section=footer" alt="" width="100%" />
+**Brand & Content Manager · GDG on Campus York University** · May 2026 – Present
+- Shot and edited photo and video coverage of the chapter's flagship event at Google's Canadian headquarters, used for promotion and recruitment.
+- Design posters, event graphics and recaps, and tune the posting schedule with the exec team using engagement metrics.
+
+**Digital Marketing & Web Lead · ZUIX INC.** · Sep 2024 – Jun 2026 · [zuix.ca](https://zuix.ca)
+- Designed, built and shipped the firm's first production website end to end (Next.js 16, React 19, Supabase, Cloudflare Pages) with continuous deployment.
+- Built a password-protected admin dashboard with full CRUD, authenticated with HMAC-signed `httpOnly` session cookies and no third-party auth provider.
+- Replaced a manual intake process with a validated estimate-request flow, and directed the photo and video content that launched the brand's socials.
+
+**Freelance Photographer & Videographer · F.O.R.M. Basketball Academy** · Nov 2025 – Jan 2026
+- Shot and delivered event coverage at the OVO Athletic Centre in fast, high-pressure conditions.
+
+**STEM Instructor · Envision Robotics** · Dec 2024 – Mar 2025 &nbsp;·&nbsp; **Computer Science Tutor · Bayview Secondary School** · Sep 2023 – Jun 2025
+- Taught robotics, 3D-printing and coding workshops for groups of up to 20, and ran one-on-one CS tutoring tailored to each student.
+
+</details>
+
+<br />
+
+<div align="center">
+
+<img src="assets/section-projects.svg" height="64" alt="Projects: recent work" />
+
+<br /><br />
+
+<a href="https://github.com/qwzynx/fretnote"><img src="assets/project-fretnote.svg" width="49%" alt="Fretnote" /></a>
+<a href="https://www.mahanghafarian.com/#projects"><img src="assets/project-clauto.svg" width="49%" alt="Clauto" /></a>
+<a href="https://github.com/qwzynx/GradeCalc"><img src="assets/project-grade-matrix.svg" width="49%" alt="GradeMatrix" /></a>
+<a href="https://github.com/qwzynx/anti-fomo"><img src="assets/project-anti-fomo.svg" width="49%" alt="Anti-FOMO" /></a>
+<a href="https://github.com/qwzynx/Pico-Ducky3.0"><img src="assets/project-pico-ducky.svg" width="49%" alt="Pico-Ducky 3.0" /></a>
+<a href="https://github.com/qwzynx/Phone-As-Webcam"><img src="assets/project-phone-as-webcam.svg" width="49%" alt="Phone-As-Webcam" /></a>
+
+<sub>Live: <a href="https://fretnote-eight.vercel.app">Fretnote</a> · <a href="https://grade-calc-nine.vercel.app">GradeMatrix</a></sub>
+
+</div>
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br />
+
+| Project | What it is | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **MG Studio** | My photo and video portfolio | Next.js 16, Framer Motion | [repo](https://github.com/qwzynx/studio) · [live](https://studio.mahanghafarian.com) |
+| **Portfolio** | This design, as a website | Next.js 16, Framer Motion | [repo](https://github.com/qwzynx/Portfolio) · [live](https://www.mahanghafarian.com) |
+| **Undercut** | AI used-car deal finder for the GTA; I led the front-end team of a 5-person build | Next.js 14, FastAPI, Go, Gemini | [repo](https://github.com/SoroushRF/Undercut) · [live](https://undercut-seven.vercel.app) |
+| **ZUIX INC.** | Production site + admin dashboard for a renovation firm | Next.js 16, Supabase, Cloudflare | [live](https://zuix.ca) |
+| **Trillium Pastry** | Small-business showcase with Resend order emails | Astro, Cloudflare Functions | [live](https://trilliumpastry.ca) |
+| **Course Tutors** | Exam-prep apps for EECS 2200 (circuit simulators) and MATH 1090 (proof drills) | Next.js 16, KaTeX | private |
+| **opencode for Journalling** | Local-LLM journalling companion for Obsidian on a 4B model | opencode, Ollama, Bash | private |
+| **FOMO** | Terminal news and events digest, Anti-FOMO's predecessor | Python, BeautifulSoup, SQLite | [repo](https://github.com/qwzynx/FOMO) |
+| **FocusBox** | Study timer that notices when you pick your phone back up | Java, Arduino | [repo](https://github.com/qwzynx/ENG1102) |
+| **ENG 2003 Portfolio** | Technical writing and hardware docs for Lassonde | Vite, GitHub Pages | [live](https://eng2003.mahanghafarian.com) |
+
+</details>
+
+<br />
+
+<div align="center">
+
+<img src="assets/section-stats.svg" height="64" alt="Stats: commit history" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=qwzynx&show_icons=true&include_all_commits=true&count_private=true&card_width=440&border_radius=16&bg_color=0a0a0a&border_color=1f1f1f&title_color=60a5fa&icon_color=a855f7&text_color=9ca3af&ring_color=3b82f6" alt="GitHub stats" height="195" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwzynx&layout=compact&langs_count=7&card_width=290&border_radius=16&bg_color=0a0a0a&border_color=1f1f1f&title_color=60a5fa&text_color=9ca3af" alt="Most used languages" height="195" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=qwzynx&background=0a0a0a&border=1f1f1f&border_radius=16&stroke=1f1f1f&ring=3b82f6&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=60a5fa&sideLabels=9ca3af&dates=6b7280" alt="Contribution streak" />
+
+<br /><br />
+
+<img src="assets/section-contact.svg" height="64" alt="Contact: get in touch" />
+
+Open to **internships, collaborations and interesting problems**, especially where security, systems and things people actually use meet.
+
+<a href="mailto:mahan207gh@gmail.com"><img src="assets/link-email.svg" height="46" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mahan-ghafarian/"><img src="assets/link-linkedin.svg" height="46" alt="LinkedIn" /></a>
+
+<br /><br />
+
+<a href="https://www.mahanghafarian.com"><img src="assets/footer.svg" width="100%" alt="© 2026 Mahan Ghafarian" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=qwzynx&label=profile%20views&color=3b82f6&style=flat-square" alt="Profile views" />
 
 </div>

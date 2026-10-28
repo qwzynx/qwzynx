@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48" width="180" height="48" role="img" aria-label="Portfolio">
+<title>Portfolio</title>
+<style>
+text { font-family: Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+.h { font-family: 'Inter Tight', Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+@keyframes pulse { 50% { opacity: .5; } }
+.pulse { animation: pulse 2s cubic-bezier(.4, 0, .6, 1) infinite; }
+@keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-15px); } }
+.float { animation: float 6s ease-in-out infinite; }
+@keyframes float-subtle { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+.float-subtle { animation: float-subtle 4s ease-in-out infinite; }
+@keyframes glow-pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+.glow-pulse { animation: glow-pulse 8s ease-in-out infinite; }
+@keyframes bounce { 0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(.8, 0, 1, 1); }
+  50% { transform: none; animation-timing-function: cubic-bezier(0, 0, .2, 1); } }
+.bounce { animation: bounce 1s infinite; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#3b82f6"/></linearGradient><filter id="sh" x="-20%" y="-50%" width="140%" height="200%"><feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#3b82f6" flood-opacity=".45"/></filter></defs><rect x="4" y="2" width="172" height="38" rx="19.0" fill="url(#bg)" filter="url(#sh)"/>
+<g transform="translate(24 13) scale(.72)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></g>
+<text x="50" y="24.5" font-size="13" font-weight="700" fill="#fff" textLength="88.9" lengthAdjust="spacing">PORTFOLIO</text>
+
+</svg>

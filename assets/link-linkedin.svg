@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171 48" width="171" height="48" role="img" aria-label="Linkedin">
+<title>Linkedin</title>
+<style>
+text { font-family: Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+.h { font-family: 'Inter Tight', Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+@keyframes pulse { 50% { opacity: .5; } }
+.pulse { animation: pulse 2s cubic-bezier(.4, 0, .6, 1) infinite; }
+@keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-15px); } }
+.float { animation: float 6s ease-in-out infinite; }
+@keyframes float-subtle { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+.float-subtle { animation: float-subtle 4s ease-in-out infinite; }
+@keyframes glow-pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+.glow-pulse { animation: glow-pulse 8s ease-in-out infinite; }
+@keyframes bounce { 0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(.8, 0, 1, 1); }
+  50% { transform: none; animation-timing-function: cubic-bezier(0, 0, .2, 1); } }
+.bounce { animation: bounce 1s infinite; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<rect x="4.75" y="2.75" width="161.5" height="36.5" rx="18.25" fill="#0a0a0a" stroke="#fff" stroke-opacity=".15" stroke-width="1.5"/>
+<svg x="24.0" y="14.0" width="16" height="16" viewBox="0 0 448 512" fill="#e5e7eb" stroke="#e5e7eb" stroke-width="0" color="#e5e7eb"><g ><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></g></svg>
+<text x="50" y="24.5" font-size="13" font-weight="700" fill="#e5e7eb" textLength="79.0" lengthAdjust="spacing">LINKEDIN</text>
+
+</svg>

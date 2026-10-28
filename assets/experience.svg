@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 722" width="1000" height="722" role="img" aria-label="Experience: Application Support Associate Intern at HomeEquity Bank (Sep 2026 – Present); Brand &amp; Content Manager at GDG on Campus York University (May 2026 – Present); Digital Marketing &amp; Web Lead at ZUIX INC. (Sep 2024 – Jun 2026); Freelance Photographer &amp; Videographer at F.O.R.M. Basketball Academy (Nov 2025 – Jan 2026); STEM Instructor at Envision Robotics STEM Education Inc. (Dec 2024 – Mar 2025); Computer Science Tutor at Bayview Secondary School (Sep 2023 – Jun 2025)">
+<title>Experience: Application Support Associate Intern at HomeEquity Bank (Sep 2026 – Present); Brand &amp; Content Manager at GDG on Campus York University (May 2026 – Present); Digital Marketing &amp; Web Lead at ZUIX INC. (Sep 2024 – Jun 2026); Freelance Photographer &amp; Videographer at F.O.R.M. Basketball Academy (Nov 2025 – Jan 2026); STEM Instructor at Envision Robotics STEM Education Inc. (Dec 2024 – Mar 2025); Computer Science Tutor at Bayview Secondary School (Sep 2023 – Jun 2025)</title>
+<style>
+text { font-family: Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+.h { font-family: 'Inter Tight', Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+@keyframes pulse { 50% { opacity: .5; } }
+.pulse { animation: pulse 2s cubic-bezier(.4, 0, .6, 1) infinite; }
+@keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-15px); } }
+.float { animation: float 6s ease-in-out infinite; }
+@keyframes float-subtle { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+.float-subtle { animation: float-subtle 4s ease-in-out infinite; }
+@keyframes glow-pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+.glow-pulse { animation: glow-pulse 8s ease-in-out infinite; }
+@keyframes bounce { 0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(.8, 0, 1, 1); }
+  50% { transform: none; animation-timing-function: cubic-bezier(0, 0, .2, 1); } }
+.bounce { animation: bounce 1s infinite; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+
+<defs>
+  <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+  <radialGradient id="glow-b" cx="50%" cy="50%" r="70%"><stop offset="0" stop-color="#3b82f6" stop-opacity=".18"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow-p" cx="100%" cy="100%" r="80%"><stop offset="0" stop-color="#a855f7" stop-opacity=".16"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+  <clipPath id="page"><rect width="1000" height="722" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#page)">
+  <rect width="1000" height="722" fill="#0a0a0a"/>
+  <rect width="1000" height="722" fill="url(#grid)"/>
+  <rect width="1000" height="722" fill="url(#glow-b)"/>
+  <rect width="1000" height="722" fill="url(#glow-p)"/>
+</g>
+<rect x=".5" y=".5" width="999" height="721" rx="24" fill="none" stroke="#fff" stroke-opacity=".08"/>
+<defs>
+  <linearGradient id="spine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b82f6" stop-opacity="0"/><stop offset=".5" stop-color="#3b82f6" stop-opacity=".35"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
+  <linearGradient id="dot" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a855f7" stop-opacity=".06"/><stop offset=".6" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
+  <radialGradient id="aura"><stop offset="0" stop-color="#2563eb" stop-opacity=".14"/><stop offset=".5" stop-color="#9333ea" stop-opacity=".1"/><stop offset="1" stop-color="#9333ea" stop-opacity="0"/></radialGradient>
+  <filter id="dg" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="6"/></filter>
+</defs>
+<circle class="glow-pulse" cx="500.0" cy="361.0" r="320" fill="url(#aura)"/>
+<rect x="499.0" y="0" width="2" height="722" fill="url(#spine)"/>
+
+<rect x="48.0" y="40" width="404" height="92" rx="16" fill="#0a0a0a" fill-opacity=".85" stroke="#fff" stroke-opacity=".1"/>
+<rect x="48.0" y="40" width="404" height="92" rx="16" fill="url(#card)"/>
+<text x="72.0" y="74" font-size="16" font-weight="700" fill="#fff">Application Support Associate Intern</text>
+<text x="72.0" y="97" font-size="14" font-weight="600" fill="#c084fc" fill-opacity=".9">HomeEquity Bank</text>
+<text x="72.0" y="117" font-size="12" font-weight="500" fill="#9ca3af">Sep 2026 – Present</text>
+<path d="M452.0 86.0H486.0" stroke="#fff" stroke-opacity=".08" stroke-dasharray="3 4"/>
+<circle class="glow-pulse" style="animation-delay:0.0s" cx="500.0" cy="86.0" r="14" fill="#3b82f6" fill-opacity=".55" filter="url(#dg)"/>
+<circle cx="500.0" cy="86.0" r="12" fill="#0a0a0a"/>
+<circle cx="500.0" cy="86.0" r="8" fill="url(#dot)"/>
+<rect x="548.0" y="150" width="404" height="92" rx="16" fill="#0a0a0a" fill-opacity=".85" stroke="#fff" stroke-opacity=".1"/>
+<rect x="548.0" y="150" width="404" height="92" rx="16" fill="url(#card)"/>
+<text x="572.0" y="184" font-size="16" font-weight="700" fill="#fff">Brand &amp; Content Manager</text>
+<text x="572.0" y="207" font-size="14" font-weight="600" fill="#c084fc" fill-opacity=".9">GDG on Campus York University</text>
+<text x="572.0" y="227" font-size="12" font-weight="500" fill="#9ca3af">May 2026 – Present</text>
+<path d="M548.0 196.0H514.0" stroke="#fff" stroke-opacity=".08" stroke-dasharray="3 4"/>
+<circle class="glow-pulse" style="animation-delay:0.6s" cx="500.0" cy="196.0" r="14" fill="#3b82f6" fill-opacity=".55" filter="url(#dg)"/>
+<circle cx="500.0" cy="196.0" r="12" fill="#0a0a0a"/>
+<circle cx="500.0" cy="196.0" r="8" fill="url(#dot)"/>
+<rect x="48.0" y="260" width="404" height="92" rx="16" fill="#0a0a0a" fill-opacity=".85" stroke="#fff" stroke-opacity=".1"/>
+<rect x="48.0" y="260" width="404" height="92" rx="16" fill="url(#card)"/>
+<text x="72.0" y="294" font-size="16" font-weight="700" fill="#fff">Digital Marketing &amp; Web Lead</text>
+<text x="72.0" y="317" font-size="14" font-weight="600" fill="#c084fc" fill-opacity=".9">ZUIX INC.</text>
+<text x="72.0" y="337" font-size="12" font-weight="500" fill="#9ca3af">Sep 2024 – Jun 2026</text>
+<path d="M452.0 306.0H486.0" stroke="#fff" stroke-opacity=".08" stroke-dasharray="3 4"/>
+<circle class="glow-pulse" style="animation-delay:1.2s" cx="500.0" cy="306.0" r="14" fill="#3b82f6" fill-opacity=".55" filter="url(#dg)"/>
+<circle cx="500.0" cy="306.0" r="12" fill="#0a0a0a"/>
+<circle cx="500.0" cy="306.0" r="8" fill="url(#dot)"/>
+<rect x="548.0" y="370" width="404" height="92" rx="16" fill="#0a0a0a" fill-opacity=".85" stroke="#fff" stroke-opacity=".1"/>
+<rect x="548.0" y="370" width="404" height="92" rx="16" fill="url(#card)"/>
+<text x="572.0" y="404" font-size="16" font-weight="700" fill="#fff">Freelance Photographer &amp; Videographer</text>
+<text x="572.0" y="427" font-size="14" font-weight="600" fill="#c084fc" fill-opacity=".9">F.O.R.M. Basketball Academy</text>
+<text x="572.0" y="447" font-size="12" font-weight="500" fill="#9ca3af">Nov 2025 – Jan 2026</text>
+<path d="M548.0 416.0H514.0" stroke="#fff" stroke-opacity=".08" stroke-dasharray="3 4"/>
+<circle class="glow-pulse" style="animation-delay:1.8s" cx="500.0" cy="416.0" r="14" fill="#3b82f6" fill-opacity=".55" filter="url(#dg)"/>
+<circle cx="500.0" cy="416.0" r="12" fill="#0a0a0a"/>
+<circle cx="500.0" cy="416.0" r="8" fill="url(#dot)"/>
+<rect x="48.0" y="480" width="404" height="92" rx="16" fill="#0a0a0a" fill-opacity=".85" stroke="#fff" stroke-opacity=".1"/>
+<rect x="48.0" y="480" width="404" height="92" rx="16" fill="url(#card)"/>
+<text x="72.0" y="514" font-size="16" font-weight="700" fill="#fff">STEM Instructor</text>
+<text x="72.0" y="537" font-size="14" font-weight="600" fill="#c084fc" fill-opacity=".9">Envision Robotics STEM Education Inc.</text>
+<text x="72.0" y="557" font-size="12" font-weight="500" fill="#9ca3af">Dec 2024 – Mar 2025</text>
+<path d="M452.0 526.0H486.0" stroke="#fff" stroke-opacity=".08" stroke-dasharray="3 4"/>
+<circle class="glow-pulse" style="animation-delay:2.4s" cx="500.0" cy="526.0" r="14" fill="#3b82f6" fill-opacity=".55" filter="url(#dg)"/>
+<circle cx="500.0" cy="526.0" r="12" fill="#0a0a0a"/>
+<circle cx="500.0" cy="526.0" r="8" fill="url(#dot)"/>
+<rect x="548.0" y="590" width="404" height="92" rx="16" fill="#0a0a0a" fill-opacity=".85" stroke="#fff" stroke-opacity=".1"/>
+<rect x="548.0" y="590" width="404" height="92" rx="16" fill="url(#card)"/>
+<text x="572.0" y="624" font-size="16" font-weight="700" fill="#fff">Computer Science Tutor</text>
+<text x="572.0" y="647" font-size="14" font-weight="600" fill="#c084fc" fill-opacity=".9">Bayview Secondary School</text>
+<text x="572.0" y="667" font-size="12" font-weight="500" fill="#9ca3af">Sep 2023 – Jun 2025</text>
+<path d="M548.0 636.0H514.0" stroke="#fff" stroke-opacity=".08" stroke-dasharray="3 4"/>
+<circle class="glow-pulse" style="animation-delay:3.0s" cx="500.0" cy="636.0" r="14" fill="#3b82f6" fill-opacity=".55" filter="url(#dg)"/>
+<circle cx="500.0" cy="636.0" r="12" fill="#0a0a0a"/>
+<circle cx="500.0" cy="636.0" r="8" fill="url(#dot)"/>
+
+</svg>
